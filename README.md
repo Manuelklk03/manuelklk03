@@ -1,16 +1,18 @@
-## Hi there 👋
+# Manuel Casinos Pérez
 
-<!--
-**Manuelklk03/manuelklk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador full stack junior en Valencia. Terminé DAW y sigo aprendiendo con proyectos propios, trabajando tanto en la interfaz como en la API y los datos.
 
-Here are some ideas to get you started:
+## Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ValveDex](https://github.com/Manuelklk03/ValveDex)** — Enciclopedia interactiva sobre Valve y sus juegos. Está en desarrollo y empieza por el universo Half-Life.
+- **[Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)** — Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0.
+
+## Tecnologías
+
+- **Frontend:** TypeScript, React, Next.js y Angular.
+- **Backend:** Java y Spring Boot.
+- **Datos y entorno:** PostgreSQL y Docker.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/manuel-casinos-perez/)
