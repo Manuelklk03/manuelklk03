@@ -1,12 +1,28 @@
 # Manuel Casinos Pérez
 
-Soy desarrollador full stack junior en Valencia. Terminé DAW y sigo aprendiendo con proyectos propios, del frontend al backend.
+**Desarrollador full stack junior · Valencia**
+
+Terminé DAW y sigo aprendiendo con proyectos propios, del frontend al backend.
 
 ## Proyectos
 
-- **[ValveDex](https://github.com/Manuelklk03/ValveDex)** — Enciclopedia interactiva sobre Valve y sus juegos. Está en desarrollo y empieza por el universo Half-Life. La estoy construyendo con React, Next.js y TypeScript.
-- **[Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)** — Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0. Usa Angular, Java, Spring Boot, PostgreSQL y Docker.
-- **[Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)** — Mi portfolio en Astro. Todavía está en desarrollo.
+### 🎮 [ValveDex](https://github.com/Manuelklk03/ValveDex)
+
+Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el universo Half-Life y sus expansiones.
+
+**Stack:** `React` · `Next.js` · `TypeScript`
+
+### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
+
+Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0.
+
+**Stack:** `Angular` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker`
+
+### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
+
+Mi portfolio en Astro. Todavía está en desarrollo.
+
+**Stack:** `Astro`
 
 ## Tecnologías
 
@@ -39,11 +55,11 @@ Soy desarrollador full stack junior en Valencia. Terminé DAW y sigo aprendiendo
 
 En mis repositorios intento cuidar también el proceso:
 
-- Trabajo con ramas y pull requests para mantener los cambios acotados.
-- Documento cómo arrancar cada proyecto y las decisiones importantes.
-- Estoy incorporando tests para detectar errores y evitar regresiones.
-- Uso Docker y GitHub Actions para practicar automatización y DevOps.
+- **Git y pull requests:** cambios acotados en ramas antes de llevarlos a `main`.
+- **Documentación:** pasos para arrancar el proyecto y decisiones importantes.
+- **Tests:** estoy incorporando pruebas para detectar errores y evitar regresiones.
+- **DevOps y calidad:** Docker, GitHub Actions y SonarQube Cloud para automatizar comprobaciones y revisar el código.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/manuel-casinos-perez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-casinos-perez/)
