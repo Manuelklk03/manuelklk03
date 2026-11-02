@@ -10,7 +10,11 @@ Terminé DAW y sigo aprendiendo con proyectos propios, del frontend al backend.
 
 Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el universo Half-Life y sus expansiones.
 
+[![Fan art animado de Gordon Freeman en Black Mesa para ValveDex](./assets/valvedex-gordon.gif)](https://github.com/Manuelklk03/ValveDex)
+
 **Stack:** `React` · `Next.js` · `TypeScript`
+
+![Iconos de React, Next.js y TypeScript](https://skillicons.dev/icons?i=react,nextjs,ts&theme=dark)
 
 ### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
 
@@ -18,11 +22,15 @@ Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y se
 
 **Stack:** `Angular` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker`
 
+![Iconos de Angular, Java, Spring, PostgreSQL y Docker](https://skillicons.dev/icons?i=angular,java,spring,postgres,docker&theme=dark)
+
 ### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
 
 Mi portfolio en Astro. Todavía está en desarrollo.
 
 **Stack:** `Astro`
+
+![Icono de Astro](https://skillicons.dev/icons?i=astro&theme=dark)
 
 ## Tecnologías
 
