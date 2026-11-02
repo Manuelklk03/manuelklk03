@@ -12,25 +12,31 @@ Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el 
 
 [![Fan art animado de Gordon Freeman en Black Mesa para ValveDex](./assets/valvedex-gordon.gif)](https://github.com/Manuelklk03/ValveDex)
 
-**Stack:** `React` · `Next.js` · `TypeScript`
+**Stack:** `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Three.js` · `GSAP`
 
-![Iconos de React, Next.js y TypeScript](https://skillicons.dev/icons?i=react,nextjs,ts&theme=dark)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS y Three.js" height="48" />
+  <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="48" height="48" />
+</p>
 
 ### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
 
 Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0.
 
-**Stack:** `Angular` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker`
+**Stack:** `Angular` · `TypeScript` · `Leaflet` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Maven`
 
-![Iconos de Angular, Java, Spring, PostgreSQL y Docker](https://skillicons.dev/icons?i=angular,java,spring,postgres,docker&theme=dark)
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,java,spring,postgres,docker,maven&theme=dark" alt="Angular, TypeScript, Java, Spring Boot, PostgreSQL, Docker y Maven" height="48" />
+  <img src="https://cdn.simpleicons.org/leaflet/199900" alt="Leaflet" width="48" height="48" />
+</p>
 
 ### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
 
 Mi portfolio en Astro. Todavía está en desarrollo.
 
-**Stack:** `Astro`
+**Stack:** `Astro` · `React` · `TypeScript` · `Tailwind CSS` · `Three.js`
 
-![Icono de Astro](https://skillicons.dev/icons?i=astro&theme=dark)
+![Iconos de Astro, React, TypeScript, Tailwind CSS y Three.js](https://skillicons.dev/icons?i=astro,react,ts,tailwind,threejs&theme=dark)
 
 ## Tecnologías
 
