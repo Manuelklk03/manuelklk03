@@ -19,6 +19,14 @@ Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el 
   <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="48" height="48" />
 </p>
 
+### 📡 [PulseWatch](https://github.com/Manuelklk03/PulseWatch)
+
+Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de respuesta y gestionar incidencias. Por ahora he documentado la arquitectura y preparado la base del frontend.
+
+**Stack:** `React` · `TypeScript` · `Vite` · `Python` · `FastAPI` · `PostgreSQL` · `Docker`
+
+![Iconos de React, TypeScript, Vite, Python, FastAPI, PostgreSQL y Docker](https://skillicons.dev/icons?i=react,ts,vite,py,fastapi,postgres,docker&theme=dark)
+
 ### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
 
 Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0.
