@@ -40,11 +40,13 @@ Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y se
 
 ### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
 
-Mi portfolio en Astro. Todavía está en desarrollo.
+Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una terminal interactiva. La versión v1.0 ya está publicada e incluye mis proyectos, mi perfil y mi CV.
 
 **Stack:** `Astro` · `React` · `TypeScript` · `Tailwind CSS` · `Three.js`
 
 ![Iconos de Astro, React, TypeScript, Tailwind CSS y Three.js](https://skillicons.dev/icons?i=astro,react,ts,tailwind,threejs&theme=dark)
+
+[![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
 
 ## Tecnologías
 
