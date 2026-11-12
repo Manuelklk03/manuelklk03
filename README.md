@@ -27,6 +27,14 @@ Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de res
 
 ![Iconos de React, TypeScript, Vite, Python, FastAPI, PostgreSQL y Docker](https://skillicons.dev/icons?i=react,ts,vite,py,fastapi,postgres,docker&theme=dark)
 
+### 🛠️ [PartePro](https://github.com/Manuelklk03/PartePro)
+
+Proyecto para gestionar avisos e intervenciones de técnicos a domicilio: asignar visitas, registrar el trabajo y entregar un parte al cliente. Estoy empezando por la documentación y el entorno de desarrollo; todavía no hay aplicación ejecutable ni demo.
+
+**Stack previsto:** `Vue 3` · `TypeScript` · `Vite` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker`
+
+![Iconos de Vue, TypeScript, Vite, Java, Spring Boot, PostgreSQL y Docker](https://skillicons.dev/icons?i=vue,ts,vite,java,spring,postgres,docker&theme=dark)
+
 ### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
 
 Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0.
@@ -41,6 +49,8 @@ Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y se
 ### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
 
 Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una terminal interactiva. La versión v1.0 ya está publicada e incluye mis proyectos, mi perfil y mi CV.
+
+[![Animación de Morfeo en ASCII con lluvia de código Matrix para mi portfolio](./assets/portfolio-matrix-ascii.gif)](https://manuelcasinos.es/)
 
 **Stack:** `Astro` · `React` · `TypeScript` · `Tailwind CSS` · `Three.js`
 
