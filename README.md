@@ -10,9 +10,9 @@ Soy Manuel, titulado en DAW. Me gusta construir aplicaciones que se puedan explo
 
 ## Proyectos
 
-### 🎮 [ValveDex](https://github.com/Manuelklk03/ValveDex)
+### λ [ValveDex](https://github.com/Manuelklk03/ValveDex) · El universo de Valve
 
-Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el universo Half-Life y sus expansiones.
+Explora los juegos de Valve a través de fichas y escenas interactivas. La primera parte se centra en Half-Life, Opposing Force y Blue Shift.
 
 [![Fan art animado de Gordon Freeman en Black Mesa para ValveDex](./assets/valvedex-gordon.gif)](https://github.com/Manuelklk03/ValveDex)
 
@@ -30,21 +30,24 @@ Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el 
 </p>
 
 <details>
-<summary><strong>Ver arquitectura y estado de ValveDex</strong></summary>
+<summary><strong>Arquitectura y estado</strong></summary>
 
-| | |
-| --- | --- |
-| **Estado** | En desarrollo. El foco está en Half-Life y sus expansiones. |
-| **Arquitectura** | Next.js organiza las rutas. Los datos de los juegos, los componentes compartidos y las escenas interactivas se mantienen en módulos separados. |
-| **En qué me centro** | Ampliar las fichas de Half-Life, Opposing Force y Blue Shift. |
+**Estado actual**  
+En desarrollo. El foco está en Half-Life y sus expansiones.
 
-[Estado actual](https://github.com/Manuelklk03/ValveDex/blob/main/docs/STATUS.md) · [Hoja de ruta](https://github.com/Manuelklk03/ValveDex/blob/main/docs/roadmap.md) · [Ver cambios](https://github.com/Manuelklk03/ValveDex/pulls)
+**Cómo está construido**  
+Next.js organiza las rutas. Los datos de los juegos, los componentes compartidos y las escenas interactivas se mantienen en módulos separados.
+
+**En qué me centro**  
+Ampliar las fichas de Half-Life, Opposing Force y Blue Shift.
+
+[![Estado actual](https://img.shields.io/badge/Estado_actual-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/blob/main/docs/STATUS.md) [![Hoja de ruta](https://img.shields.io/badge/Hoja_de_ruta-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/blob/main/docs/roadmap.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/pulls)
 
 </details>
 
-### 📡 [PulseWatch](https://github.com/Manuelklk03/PulseWatch)
+### 📡 [PulseWatch](https://github.com/Manuelklk03/PulseWatch) · Monitorización de webs y APIs
 
-Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de respuesta y gestionar incidencias.
+Proyecto para comprobar si una web o API responde, consultar su historial de disponibilidad y tiempos de respuesta, y detectar incidencias cuando un servicio deja de funcionar.
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PulseWatch)
 
@@ -61,21 +64,24 @@ Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de res
 </p>
 
 <details>
-<summary><strong>Ver arquitectura y estado de PulseWatch</strong></summary>
+<summary><strong>Arquitectura y estado</strong></summary>
 
-| | |
-| --- | --- |
-| **Estado** | En diseño, con la base técnica en preparación. |
-| **Arquitectura** | La interfaz usa React. El diseño separa la API FastAPI del proceso que comprueba los destinos. PostgreSQL guarda resultados e incidencias. |
-| **En qué me centro** | Preparar el primer recorrido para registrar un monitor HTTP y consultar sus resultados. |
+**Estado actual**  
+En diseño, con la base técnica en preparación.
 
-[Arquitectura](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/architecture.md) · [Hoja de ruta](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/roadmap.md) · [Ver cambios](https://github.com/Manuelklk03/PulseWatch/pulls)
+**Cómo está construido**  
+La interfaz usa React. El diseño separa la API FastAPI del proceso que comprueba los destinos. PostgreSQL guarda resultados e incidencias.
+
+**En qué me centro**  
+Preparar el primer recorrido para registrar un monitor HTTP y consultar sus resultados.
+
+[![Arquitectura](https://img.shields.io/badge/Arquitectura-34495E?style=flat-square)](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/architecture.md) [![Hoja de ruta](https://img.shields.io/badge/Hoja_de_ruta-34495E?style=flat-square)](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/roadmap.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/PulseWatch/pulls)
 
 </details>
 
-### 🛠️ [PartePro](https://github.com/Manuelklk03/PartePro)
+### 🧰 [PartePro](https://github.com/Manuelklk03/PartePro) · Gestión de avisos e intervenciones
 
-Proyecto para gestionar avisos e intervenciones de técnicos a domicilio: asignar visitas, registrar el trabajo y entregar un parte al cliente.
+Herramienta en diseño para equipos de técnicos a domicilio. El flujo previsto reúne el aviso del cliente, la asignación de la visita, el registro del trabajo y la entrega del parte.
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PartePro)
 
@@ -92,21 +98,24 @@ Proyecto para gestionar avisos e intervenciones de técnicos a domicilio: asigna
 </p>
 
 <details>
-<summary><strong>Ver arquitectura y estado de PartePro</strong></summary>
+<summary><strong>Arquitectura y estado</strong></summary>
 
-| | |
-| --- | --- |
-| **Estado** | Documentación inicial y definición del alcance. |
-| **Arquitectura** | El diseño propone una interfaz Vue 3 para gestionar avisos, una API Spring Boot y PostgreSQL para persistir clientes, visitas y partes. |
-| **En qué me centro** | Concretar el flujo de trabajo desde el aviso hasta el parte al cliente. |
+**Estado actual**  
+Documentación inicial y definición del alcance.
 
-[Estado actual](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md) · [Arquitectura propuesta](https://github.com/Manuelklk03/PartePro/blob/main/docs/arquitectura.md) · [Ver cambios](https://github.com/Manuelklk03/PartePro/pulls)
+**Cómo está construido**  
+El diseño propone una interfaz Vue 3 para gestionar avisos, una API Spring Boot y PostgreSQL para persistir clientes, visitas y partes.
+
+**En qué me centro**  
+Concretar el flujo de trabajo desde el aviso hasta el parte al cliente.
+
+[![Estado actual](https://img.shields.io/badge/Estado_actual-34495E?style=flat-square)](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md) [![Arquitectura propuesta](https://img.shields.io/badge/Arquitectura_propuesta-34495E?style=flat-square)](https://github.com/Manuelklk03/PartePro/blob/main/docs/arquitectura.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/PartePro/pulls)
 
 </details>
 
-### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
+### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto) · Entrenamiento y progreso
 
-Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0.
+Aplicación para organizar entrenamientos, encontrar sitios donde entrenar en un mapa y seguir el progreso. Nació como mi proyecto final de DAW y ahora estoy preparando su versión 2.0.
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
 
@@ -124,21 +133,24 @@ Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y se
 </p>
 
 <details>
-<summary><strong>Ver arquitectura y estado de Digital Fit</strong></summary>
+<summary><strong>Arquitectura y estado</strong></summary>
 
-| | |
-| --- | --- |
-| **Estado** | Proyecto final de DAW en renovación hacia la versión 2.0. |
-| **Arquitectura** | Angular y Leaflet forman la interfaz y el mapa. Spring Boot expone la API y PostgreSQL almacena los datos. |
-| **En qué me centro** | La actividad del repositorio muestra qué partes se están revisando. |
+**Estado actual**  
+Proyecto final de DAW en renovación hacia la versión 2.0.
 
-[Ver cambios](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
+**Cómo está construido**  
+Angular y Leaflet forman la interfaz y el mapa. Spring Boot expone la API y PostgreSQL almacena los datos.
+
+**En qué me centro**  
+La actividad del repositorio muestra qué partes se están revisando.
+
+[![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
 
 </details>
 
-### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
+### ⌨️ [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal) · Experiencia Matrix
 
-Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una terminal interactiva. La versión v1.0 ya está publicada e incluye mis proyectos, mi perfil y mi CV.
+Una web para conocer mi perfil, consultar mis proyectos y acceder a mi CV. La navegación incluye una terminal interactiva y una intro de Morfeo en arte ASCII.
 
 [![Animación de Morfeo en ASCII con lluvia de código Matrix para mi portfolio](./assets/portfolio-matrix-ascii.gif)](https://manuelcasinos.es/)
 
@@ -156,15 +168,18 @@ Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una ter
 [![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
 
 <details>
-<summary><strong>Ver arquitectura y estado de Portfolio personal</strong></summary>
+<summary><strong>Arquitectura y estado</strong></summary>
 
-| | |
-| --- | --- |
-| **Estado** | Web publicada y en evolución. |
-| **Arquitectura** | Astro genera las páginas. React y TypeScript gestionan la interacción, y Three.js se usa en la escena ASCII. |
-| **En qué me centro** | Mantener al día las fichas de proyectos y mejorar su navegación. |
+**Estado actual**  
+Web publicada y en evolución.
 
-[Estado actual](https://github.com/Manuelklk03/PortFolio-Personal/blob/main/docs/ESTADO.md) · [Decisiones técnicas](https://github.com/Manuelklk03/PortFolio-Personal/blob/main/docs/DECISIONES.md) · [Ver cambios](https://github.com/Manuelklk03/PortFolio-Personal/pulls)
+**Cómo está construido**  
+Astro genera las páginas. React y TypeScript gestionan la interacción, y Three.js se usa en la escena ASCII.
+
+**En qué me centro**  
+Mantener al día las fichas de proyectos y mejorar su navegación.
+
+[![Estado actual](https://img.shields.io/badge/Estado_actual-34495E?style=flat-square)](https://github.com/Manuelklk03/PortFolio-Personal/blob/main/docs/ESTADO.md) [![Decisiones técnicas](https://img.shields.io/badge/Decisiones_t%C3%A9cnicas-34495E?style=flat-square)](https://github.com/Manuelklk03/PortFolio-Personal/blob/main/docs/DECISIONES.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/PortFolio-Personal/pulls)
 
 </details>
 
