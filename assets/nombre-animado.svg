@@ -1,29 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 104" width="550" height="104" role="img" aria-labelledby="title">
   <title id="title">Manuel Casinos Pérez</title>
   <style>
-    .reveal { animation: type 4.8s steps(20, end) infinite; }
-    .cursor { animation: travel 4.8s steps(20, end) infinite, blink 0.8s step-end infinite; }
-    @keyframes type {
-      0% { width: 0; }
-      36%, 90% { width: 431px; }
-      100% { width: 0; }
+    .shine { animation: sweep 3.8s ease-in-out infinite; }
+    @keyframes sweep {
+      0% { transform: translateX(-150px); }
+      62%, 100% { transform: translateX(550px); }
     }
-    @keyframes travel {
-      0% { transform: translateX(0); }
-      36%, 90% { transform: translateX(431px); }
-      100% { transform: translateX(0); }
-    }
-    @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {
-      .reveal { animation: none; }
-      .cursor { display: none; }
+      .shine { display: none; }
     }
   </style>
   <defs>
-    <clipPath id="name-reveal"><rect class="reveal" x="54" y="24" width="431" height="56"/></clipPath>
+    <linearGradient id="light">
+      <stop stop-color="#64f5b7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#d6ffe9"/>
+      <stop offset="1" stop-color="#64f5b7" stop-opacity="0"/>
+    </linearGradient>
+    <text id="name" x="275" y="61" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="36" font-weight="700">Manuel Casinos Pérez</text>
+    <clipPath id="letters"><use href="#name"/></clipPath>
   </defs>
   <rect x="1" y="1" width="548" height="102" rx="13" fill="#101a19" stroke="#24644f" stroke-width="2"/>
-  <path d="m25 45 9 7-9 7" fill="none" stroke="#66f5b5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="54" y="65" fill="#e2fff0" font-family="Consolas, Menlo, monospace" font-size="32" font-weight="700" textLength="430" lengthAdjust="spacingAndGlyphs" clip-path="url(#name-reveal)">Manuel Casinos Pérez</text>
-  <rect class="cursor" x="55" y="39" width="3" height="28" rx="1.5" fill="#66f5b5"/>
+  <use href="#name" fill="#8ce9bd"/>
+  <path d="M69 77H481" stroke="#24644f" stroke-width="2" stroke-linecap="round"/>
+  <g clip-path="url(#letters)">
+    <rect class="shine" width="145" height="76" fill="url(#light)"/>
+  </g>
+  <svg x="69" y="76" width="412" height="2">
+    <rect class="shine" x="-69" width="145" height="2" fill="url(#light)"/>
+  </svg>
 </svg>
