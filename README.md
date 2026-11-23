@@ -4,6 +4,12 @@
 
 Terminé DAW y sigo aprendiendo con proyectos propios, del frontend al backend.
 
+[![Texto animado: desarrollo web full stack. Explora mis proyectos.](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1900&pause=350&color=00855D&width=438&height=38&repeat=false&lines=%3E%20Desarrollo%20web%20full%20stack%3B%3E%20Java%20%C2%B7%20TypeScript%20%C2%B7%20React%3B%3E%20Explora%20mis%20proyectos%20%E2%86%93)](#proyectos)
+
+[![Ver proyectos](https://img.shields.io/badge/Ver_proyectos-00855D?style=for-the-badge)](#proyectos)
+[![Tecnologías](https://img.shields.io/badge/Tecnolog%C3%ADas-34495E?style=for-the-badge)](#tecnologías)
+[![Abrir terminal](https://img.shields.io/badge/Abrir_terminal-00855D?style=for-the-badge&logo=gnubash&logoColor=white)](https://manuelcasinos.es/)
+
 ## Proyectos
 
 ### 🎮 [ValveDex](https://github.com/Manuelklk03/ValveDex)
@@ -21,7 +27,19 @@ Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el 
 
 ### 📡 [PulseWatch](https://github.com/Manuelklk03/PulseWatch)
 
-Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de respuesta y gestionar incidencias. Por ahora he documentado la arquitectura y preparado la base del frontend.
+Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de respuesta y gestionar incidencias.
+
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PulseWatch)
+
+<details>
+<summary>Ver arquitectura y estado de PulseWatch</summary>
+
+He documentado la arquitectura y preparado la base del frontend. El diseño separa la API del proceso que comprueba los servicios y guarda los resultados en PostgreSQL.
+
+- [Arquitectura](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/architecture.md)
+- [Hoja de ruta](https://github.com/Manuelklk03/PulseWatch#hoja-de-ruta)
+
+</details>
 
 **Stack:** `React` · `TypeScript` · `Vite` · `Python` · `FastAPI` · `PostgreSQL` · `Docker`
 
@@ -29,7 +47,19 @@ Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de res
 
 ### 🛠️ [PartePro](https://github.com/Manuelklk03/PartePro)
 
-Proyecto para gestionar avisos e intervenciones de técnicos a domicilio: asignar visitas, registrar el trabajo y entregar un parte al cliente. Estoy empezando por la documentación y el entorno de desarrollo; todavía no hay aplicación ejecutable ni demo.
+Proyecto para gestionar avisos e intervenciones de técnicos a domicilio: asignar visitas, registrar el trabajo y entregar un parte al cliente.
+
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PartePro)
+
+<details>
+<summary>Ver arquitectura y estado de PartePro</summary>
+
+Estoy empezando por la documentación y el entorno de desarrollo. La aplicación ejecutable y la demo siguen pendientes.
+
+- [Estado actual](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md)
+- [Arquitectura propuesta](https://github.com/Manuelklk03/PartePro/blob/main/docs/arquitectura.md)
+
+</details>
 
 **Stack previsto:** `Vue 3` · `TypeScript` · `Vite` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker`
 
