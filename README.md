@@ -1,4 +1,4 @@
-<h1><a href="#sobre-mí"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=26&amp;duration=1800&amp;color=00855D&amp;width=360&amp;height=42&amp;repeat=true&amp;lines=Manuel%20Casinos%20P%C3%A9rez" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="360" height="42" /></a></h1>
+<h1><a href="#sobre-mí"><img src="./assets/nombre-animado.svg" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="550" height="104" /></a></h1>
 
 **Desarrollador full stack junior · Valencia**
 
@@ -18,25 +18,15 @@ Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el 
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/ValveDex)
 
-<details>
-<summary>Qué estoy construyendo en ValveDex</summary>
-
-La primera parte explora Half-Life y sus expansiones.
-
-**Stack:** `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Three.js` · `GSAP`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS y Three.js" height="48" />
-  <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="48" height="48" />
-</p>
-
-</details>
+**Stack:** [React](https://react.dev) · [Next.js](https://nextjs.org/docs) · [TypeScript](https://www.typescriptlang.org/docs/) · [Tailwind CSS](https://tailwindcss.com/docs) · [Three.js](https://threejs.org/docs/) · [GSAP](https://gsap.com/docs/v3/)
 
 ### 📡 [PulseWatch](https://github.com/Manuelklk03/PulseWatch)
 
 Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de respuesta y gestionar incidencias.
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PulseWatch)
+
+**Stack:** [React](https://react.dev) · [TypeScript](https://www.typescriptlang.org/docs/) · [Vite](https://vite.dev/guide/) · [Python](https://docs.python.org/3/) · [FastAPI](https://fastapi.tiangolo.com) · [PostgreSQL](https://www.postgresql.org/docs/) · [Docker](https://docs.docker.com)
 
 <details>
 <summary>Ver arquitectura y estado de PulseWatch</summary>
@@ -46,10 +36,6 @@ He documentado la arquitectura y preparado la base del frontend. El diseño sepa
 - [Arquitectura](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/architecture.md)
 - [Hoja de ruta](https://github.com/Manuelklk03/PulseWatch#hoja-de-ruta)
 
-**Stack:** `React` · `TypeScript` · `Vite` · `Python` · `FastAPI` · `PostgreSQL` · `Docker`
-
-![Iconos de React, TypeScript, Vite, Python, FastAPI, PostgreSQL y Docker](https://skillicons.dev/icons?i=react,ts,vite,py,fastapi,postgres,docker&theme=dark)
-
 </details>
 
 ### 🛠️ [PartePro](https://github.com/Manuelklk03/PartePro)
@@ -57,6 +43,8 @@ He documentado la arquitectura y preparado la base del frontend. El diseño sepa
 Proyecto para gestionar avisos e intervenciones de técnicos a domicilio: asignar visitas, registrar el trabajo y entregar un parte al cliente.
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PartePro)
+
+**Stack previsto:** [Vue 3](https://vuejs.org/guide/introduction.html) · [TypeScript](https://www.typescriptlang.org/docs/) · [Vite](https://vite.dev/guide/) · [Java](https://dev.java/learn/) · [Spring Boot](https://docs.spring.io/spring-boot/) · [PostgreSQL](https://www.postgresql.org/docs/) · [Docker](https://docs.docker.com)
 
 <details>
 <summary>Ver arquitectura y estado de PartePro</summary>
@@ -66,10 +54,6 @@ Estoy empezando por la documentación y el entorno de desarrollo. La aplicación
 - [Estado actual](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md)
 - [Arquitectura propuesta](https://github.com/Manuelklk03/PartePro/blob/main/docs/arquitectura.md)
 
-**Stack previsto:** `Vue 3` · `TypeScript` · `Vite` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker`
-
-![Iconos de Vue, TypeScript, Vite, Java, Spring Boot, PostgreSQL y Docker](https://skillicons.dev/icons?i=vue,ts,vite,java,spring,postgres,docker&theme=dark)
-
 </details>
 
 ### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
@@ -78,17 +62,7 @@ Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y se
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
 
-<details>
-<summary>Ver el stack de Digital Fit</summary>
-
-**Stack:** `Angular` · `TypeScript` · `Leaflet` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Maven`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,java,spring,postgres,docker,maven&theme=dark" alt="Angular, TypeScript, Java, Spring Boot, PostgreSQL, Docker y Maven" height="48" />
-  <img src="https://cdn.simpleicons.org/leaflet/199900" alt="Leaflet" width="48" height="48" />
-</p>
-
-</details>
+**Stack:** [Angular](https://angular.dev) · [TypeScript](https://www.typescriptlang.org/docs/) · [Leaflet](https://leafletjs.com/reference.html) · [Java](https://dev.java/learn/) · [Spring Boot](https://docs.spring.io/spring-boot/) · [PostgreSQL](https://www.postgresql.org/docs/) · [Docker](https://docs.docker.com) · [Maven](https://maven.apache.org/guides/)
 
 ### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
 
@@ -96,14 +70,7 @@ Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una ter
 
 [![Animación de Morfeo en ASCII con lluvia de código Matrix para mi portfolio](./assets/portfolio-matrix-ascii.gif)](https://manuelcasinos.es/)
 
-<details>
-<summary>Ver el stack del portfolio</summary>
-
-**Stack:** `Astro` · `React` · `TypeScript` · `Tailwind CSS` · `Three.js`
-
-![Iconos de Astro, React, TypeScript, Tailwind CSS y Three.js](https://skillicons.dev/icons?i=astro,react,ts,tailwind,threejs&theme=dark)
-
-</details>
+**Stack:** [Astro](https://docs.astro.build) · [React](https://react.dev) · [TypeScript](https://www.typescriptlang.org/docs/) · [Tailwind CSS](https://tailwindcss.com/docs) · [Three.js](https://threejs.org/docs/)
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PortFolio-Personal)
 [![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
@@ -113,12 +80,35 @@ Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una ter
 Trabajo con Java, Spring Boot y TypeScript. En mis proyectos actuales estoy profundizando en React, Next.js y en cómo organizar y documentar un backend.
 
 <details>
-<summary>Qué estoy construyendo ahora</summary>
+<summary>Mi formación y cómo trabajo</summary>
 
-- En **ValveDex**, estoy desarrollando primero el universo de Half-Life y sus expansiones.
-- En **PulseWatch**, estoy definiendo la arquitectura y preparando la base técnica para monitorizar webs y APIs.
+Soy titulado en Desarrollo de Aplicaciones Web. En mis proyectos practico desde el diseño de la interfaz hasta la documentación, las pruebas y la automatización.
 
-[![Volver a proyectos](https://img.shields.io/badge/Volver_a_proyectos-00855D?style=for-the-badge)](#proyectos)
+[Ver tecnologías](#tecnologías) · [Cómo trabajo](#cómo-trabajo) · [Contacto](#contacto)
+
+</details>
+
+<details open>
+<summary>Qué se está haciendo en mis proyectos</summary>
+
+Pulsa el nombre de un proyecto para ver sus últimos commits o abre sus pull requests para consultar los cambios en curso.
+
+[![Último commit de ValveDex](https://img.shields.io/github/last-commit/Manuelklk03/ValveDex?style=flat-square&logo=github&label=ValveDex&color=00855D)](https://github.com/Manuelklk03/ValveDex/commits/)
+[![Pull requests abiertas de ValveDex](https://img.shields.io/github/issues-pr/Manuelklk03/ValveDex?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/ValveDex/pulls)
+
+[![Último commit de PulseWatch](https://img.shields.io/github/last-commit/Manuelklk03/PulseWatch?style=flat-square&logo=github&label=PulseWatch&color=00855D)](https://github.com/Manuelklk03/PulseWatch/commits/)
+[![Pull requests abiertas de PulseWatch](https://img.shields.io/github/issues-pr/Manuelklk03/PulseWatch?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PulseWatch/pulls)
+
+[![Último commit de PartePro](https://img.shields.io/github/last-commit/Manuelklk03/PartePro?style=flat-square&logo=github&label=PartePro&color=00855D)](https://github.com/Manuelklk03/PartePro/commits/)
+[![Pull requests abiertas de PartePro](https://img.shields.io/github/issues-pr/Manuelklk03/PartePro?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PartePro/pulls)
+
+[![Último commit de Digital Fit](https://img.shields.io/github/last-commit/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&logo=github&label=Digital%20Fit&color=00855D)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/commits/)
+[![Pull requests abiertas de Digital Fit](https://img.shields.io/github/issues-pr/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
+
+[![Último commit de Portfolio personal](https://img.shields.io/github/last-commit/Manuelklk03/PortFolio-Personal?style=flat-square&logo=github&label=Portfolio%20personal&color=00855D)](https://github.com/Manuelklk03/PortFolio-Personal/commits/)
+[![Pull requests abiertas de Portfolio personal](https://img.shields.io/github/issues-pr/Manuelklk03/PortFolio-Personal?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PortFolio-Personal/pulls)
+
+[Hoja de ruta de PulseWatch](https://github.com/Manuelklk03/PulseWatch#hoja-de-ruta) · [Estado actual de PartePro](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md)
 
 </details>
 
@@ -126,28 +116,28 @@ Trabajo con Java, Spring Boot y TypeScript. En mis proyectos actuales estoy prof
 
 ### Con las que ya trabajo
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/learn/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://docs.spring.io/spring-boot/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev)
 
 ### En las que estoy profundizando
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/docs)
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://docs.astro.build)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/guide/)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 
 ### Herramientas que uso en mis proyectos
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![SonarQube Cloud](https://img.shields.io/badge/SonarQube_Cloud-126ED3?style=for-the-badge&logo=sonarqubecloud&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+[![SonarQube Cloud](https://img.shields.io/badge/SonarQube_Cloud-126ED3?style=for-the-badge&logo=sonarqubecloud&logoColor=white)](https://docs.sonarsource.com/sonarqube-cloud/)
 
 ## Cómo trabajo
 
