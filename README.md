@@ -1,14 +1,10 @@
-# Manuel Casinos Pérez
+<h1><a href="#sobre-mí"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=26&amp;duration=1800&amp;color=00855D&amp;width=360&amp;height=42&amp;repeat=false&amp;lines=Manuel%20Casinos%20P%C3%A9rez" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="360" height="42" /></a></h1>
 
 **Desarrollador full stack junior · Valencia**
 
-Terminé DAW y sigo aprendiendo con proyectos propios, del frontend al backend.
-
-[![Texto animado: desarrollo web full stack. Explora mis proyectos.](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1900&pause=350&color=00855D&width=438&height=38&repeat=false&lines=%3E%20Desarrollo%20web%20full%20stack%3B%3E%20Java%20%C2%B7%20TypeScript%20%C2%B7%20React%3B%3E%20Explora%20mis%20proyectos%20%E2%86%93)](#proyectos)
-
 [![Ver proyectos](https://img.shields.io/badge/Ver_proyectos-00855D?style=for-the-badge)](#proyectos)
 [![Tecnologías](https://img.shields.io/badge/Tecnolog%C3%ADas-34495E?style=for-the-badge)](#tecnologías)
-[![Abrir terminal](https://img.shields.io/badge/Abrir_terminal-00855D?style=for-the-badge&logo=gnubash&logoColor=white)](https://manuelcasinos.es/)
+[![Cómo trabajo](https://img.shields.io/badge/C%C3%B3mo_trabajo-34495E?style=for-the-badge)](#cómo-trabajo)
 
 ## Proyectos
 
@@ -87,6 +83,20 @@ Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una ter
 ![Iconos de Astro, React, TypeScript, Tailwind CSS y Three.js](https://skillicons.dev/icons?i=astro,react,ts,tailwind,threejs&theme=dark)
 
 [![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
+
+## Sobre mí
+
+Terminé DAW y sigo aprendiendo con proyectos propios, del frontend al backend.
+
+<details>
+<summary>Qué estoy construyendo ahora</summary>
+
+- En **ValveDex**, estoy desarrollando primero el universo de Half-Life y sus expansiones.
+- En **PulseWatch**, estoy definiendo la arquitectura y preparando la base técnica para monitorizar webs y APIs.
+
+[Ver proyectos](#proyectos)
+
+</details>
 
 ## Tecnologías
 
