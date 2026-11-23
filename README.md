@@ -1,4 +1,4 @@
-<h1><a href="#sobre-mí"><img src="./assets/cabecera-perfil.svg" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="680" height="146" /></a></h1>
+<h1><a href="#sobre-mí"><img src="./assets/cabecera-perfil-v2.svg" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="680" height="146" /></a></h1>
 
 **Desarrollador web full stack junior · Valencia**
 
@@ -29,19 +29,22 @@ Explora los juegos de Valve a través de fichas y escenas interactivas. La prime
   <a href="https://gsap.com/docs/v3/"><img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="44" height="44" /></a>
 </p>
 
+<a name="ficha-valvedex"></a>
 <details>
-<summary><strong>Arquitectura y estado</strong></summary>
+<summary><strong>Arquitectura y estado</strong> · ValveDex</summary>
 
-**Estado actual**  
-En desarrollo. El foco está en Half-Life y sus expansiones.
+[![Último commit de ValveDex](https://img.shields.io/github/last-commit/Manuelklk03/ValveDex?style=flat-square&label=%C3%9Altimo%20commit&color=E98E51)](https://github.com/Manuelklk03/ValveDex/commits/) [![PR abiertas de ValveDex](https://img.shields.io/github/issues-pr/Manuelklk03/ValveDex?style=flat-square&label=PR%20abiertas&color=E98E51)](https://github.com/Manuelklk03/ValveDex/pulls) [![Última versión de ValveDex](https://img.shields.io/github/v/release/Manuelklk03/ValveDex?style=flat-square&label=%C3%9Altima%20versi%C3%B3n&color=E98E51)](https://github.com/Manuelklk03/ValveDex/releases)
+
+**Estado del proyecto**  
+En desarrollo por entregas. El repositorio publica versiones y documenta el alcance de cada una.
 
 **Cómo está construido**  
-Next.js organiza las rutas. Los datos de los juegos, los componentes compartidos y las escenas interactivas se mantienen en módulos separados.
+Next.js sirve la navegación y las páginas. Los hubs de saga y los dossieres de cada juego se organizan por funcionalidad; las fichas separan datos, tipos y selectores de la interfaz. Las variables CSS cambian la identidad visual al pasar de una saga a otra.
 
 **En qué me centro**  
-Ampliar las fichas de Half-Life, Opposing Force y Blue Shift.
+Ampliar las fichas de Half-Life y sus expansiones. El estado y la hoja de ruta recogen qué universos, fichas y escenas están cubiertos.
 
-[![Estado actual](https://img.shields.io/badge/Estado_actual-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/blob/main/docs/STATUS.md) [![Hoja de ruta](https://img.shields.io/badge/Hoja_de_ruta-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/blob/main/docs/roadmap.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/pulls)
+[Arquitectura y decisiones](https://github.com/Manuelklk03/ValveDex/blob/main/docs/architecture.md) · [![Estado actual](https://img.shields.io/badge/Estado_actual-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/blob/main/docs/STATUS.md) [![Hoja de ruta](https://img.shields.io/badge/Hoja_de_ruta-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/blob/main/docs/roadmap.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/ValveDex/pulls)
 
 </details>
 
@@ -63,17 +66,20 @@ Proyecto para comprobar si una web o API responde, consultar su historial de dis
   <a href="https://docs.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="44" height="44" /></a>
 </p>
 
+<a name="ficha-pulsewatch"></a>
 <details>
-<summary><strong>Arquitectura y estado</strong></summary>
+<summary><strong>Arquitectura y estado</strong> · PulseWatch</summary>
 
-**Estado actual**  
-En diseño, con la base técnica en preparación.
+[![Último commit de PulseWatch](https://img.shields.io/github/last-commit/Manuelklk03/PulseWatch?style=flat-square&label=%C3%9Altimo%20commit&color=64C8EF)](https://github.com/Manuelklk03/PulseWatch/commits/) [![PR abiertas de PulseWatch](https://img.shields.io/github/issues-pr/Manuelklk03/PulseWatch?style=flat-square&label=PR%20abiertas&color=64C8EF)](https://github.com/Manuelklk03/PulseWatch/pulls)
+
+**Estado del proyecto**  
+En diseño. La documentación define la primera versión y la base técnica está en preparación.
 
 **Cómo está construido**  
-La interfaz usa React. El diseño separa la API FastAPI del proceso que comprueba los destinos. PostgreSQL guarda resultados e incidencias.
+React y Vite presentan los monitores. FastAPI recibe las peticiones y un worker separado ejecutará las comprobaciones programadas. PostgreSQL guardará monitores, resultados e incidencias; el plan usa SQLAlchemy y Alembic.
 
 **En qué me centro**  
-Preparar el primer recorrido para registrar un monitor HTTP y consultar sus resultados.
+Completar el primer flujo: registrar un monitor HTTP, ejecutar la comprobación y consultar la respuesta desde la interfaz.
 
 [![Arquitectura](https://img.shields.io/badge/Arquitectura-34495E?style=flat-square)](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/architecture.md) [![Hoja de ruta](https://img.shields.io/badge/Hoja_de_ruta-34495E?style=flat-square)](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/roadmap.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/PulseWatch/pulls)
 
@@ -97,17 +103,20 @@ Herramienta en diseño para equipos de técnicos a domicilio. El flujo previsto 
   <a href="https://docs.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="44" height="44" /></a>
 </p>
 
+<a name="ficha-partepro"></a>
 <details>
-<summary><strong>Arquitectura y estado</strong></summary>
+<summary><strong>Arquitectura y estado</strong> · PartePro</summary>
 
-**Estado actual**  
-Documentación inicial y definición del alcance.
+[![Último commit de PartePro](https://img.shields.io/github/last-commit/Manuelklk03/PartePro?style=flat-square&label=%C3%9Altimo%20commit&color=B59EF5)](https://github.com/Manuelklk03/PartePro/commits/) [![PR abiertas de PartePro](https://img.shields.io/github/issues-pr/Manuelklk03/PartePro?style=flat-square&label=PR%20abiertas&color=B59EF5)](https://github.com/Manuelklk03/PartePro/pulls)
+
+**Estado del proyecto**  
+En documentación inicial. El repositorio recoge requisitos, arquitectura propuesta y fases.
 
 **Cómo está construido**  
-El diseño propone una interfaz Vue 3 para gestionar avisos, una API Spring Boot y PostgreSQL para persistir clientes, visitas y partes.
+La interfaz prevista usa Vue 3, TypeScript, Router y Pinia. Spring Boot separa identidad, clientes y avisos por módulos; JPA y Flyway gestionarán PostgreSQL y sus migraciones.
 
 **En qué me centro**  
-Concretar el flujo de trabajo desde el aviso hasta el parte al cliente.
+Definir el recorrido del primer aviso: crear el cliente, asignar una visita, registrar la intervención y emitir el parte.
 
 [![Estado actual](https://img.shields.io/badge/Estado_actual-34495E?style=flat-square)](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md) [![Arquitectura propuesta](https://img.shields.io/badge/Arquitectura_propuesta-34495E?style=flat-square)](https://github.com/Manuelklk03/PartePro/blob/main/docs/arquitectura.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/PartePro/pulls)
 
@@ -132,17 +141,20 @@ Aplicación para organizar entrenamientos, encontrar sitios donde entrenar en un
   <a href="https://maven.apache.org/guides/"><img src="https://skillicons.dev/icons?i=maven&theme=dark" alt="Maven" width="44" height="44" /></a>
 </p>
 
+<a name="ficha-digital-fit"></a>
 <details>
-<summary><strong>Arquitectura y estado</strong></summary>
+<summary><strong>Arquitectura y estado</strong> · Digital Fit</summary>
 
-**Estado actual**  
+[![Último commit de Digital Fit](https://img.shields.io/github/last-commit/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&label=%C3%9Altimo%20commit&color=A9DE81)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/commits/) [![PR abiertas de Digital Fit](https://img.shields.io/github/issues-pr/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&label=PR%20abiertas&color=A9DE81)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
+
+**Estado del proyecto**  
 Proyecto final de DAW en renovación hacia la versión 2.0.
 
 **Cómo está construido**  
-Angular y Leaflet forman la interfaz y el mapa. Spring Boot expone la API y PostgreSQL almacena los datos.
+Angular presenta entrenamientos y progreso, y Leaflet resuelve la experiencia de mapa. Spring Boot aporta la API y PostgreSQL es la base de datos del proyecto.
 
 **En qué me centro**  
-La actividad del repositorio muestra qué partes se están revisando.
+Renovar la aplicación partiendo de esa base. El historial y las pull requests muestran el avance concreto de la revisión.
 
 [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
 
@@ -167,17 +179,20 @@ Una web para conocer mi perfil, consultar mis proyectos y acceder a mi CV. La na
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PortFolio-Personal)
 [![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
 
+<a name="ficha-portfolio"></a>
 <details>
-<summary><strong>Arquitectura y estado</strong></summary>
+<summary><strong>Arquitectura y estado</strong> · Portfolio personal</summary>
 
-**Estado actual**  
-Web publicada y en evolución.
+[![Último commit de Portfolio personal](https://img.shields.io/github/last-commit/Manuelklk03/PortFolio-Personal?style=flat-square&label=%C3%9Altimo%20commit&color=71E9BE)](https://github.com/Manuelklk03/PortFolio-Personal/commits/) [![PR abiertas de Portfolio personal](https://img.shields.io/github/issues-pr/Manuelklk03/PortFolio-Personal?style=flat-square&label=PR%20abiertas&color=71E9BE)](https://github.com/Manuelklk03/PortFolio-Personal/pulls) [![Última versión de Portfolio personal](https://img.shields.io/github/v/release/Manuelklk03/PortFolio-Personal?style=flat-square&label=%C3%9Altima%20versi%C3%B3n&color=71E9BE)](https://github.com/Manuelklk03/PortFolio-Personal/releases)
+
+**Estado del proyecto**  
+Web publicada. La documentación registra versiones, decisiones y próximos pasos.
 
 **Cómo está construido**  
-Astro genera las páginas. React y TypeScript gestionan la interacción, y Three.js se usa en la escena ASCII.
+Astro genera las páginas estáticas. React y TypeScript añaden las interacciones y Three.js se usa en la escena ASCII. Las fichas de proyecto tienen sus propias páginas.
 
 **En qué me centro**  
-Mantener al día las fichas de proyectos y mejorar su navegación.
+Mantener el perfil y las fichas al día y mejorar cómo se navegan.
 
 [![Estado actual](https://img.shields.io/badge/Estado_actual-34495E?style=flat-square)](https://github.com/Manuelklk03/PortFolio-Personal/blob/main/docs/ESTADO.md) [![Decisiones técnicas](https://img.shields.io/badge/Decisiones_t%C3%A9cnicas-34495E?style=flat-square)](https://github.com/Manuelklk03/PortFolio-Personal/blob/main/docs/DECISIONES.md) [![Ver cambios](https://img.shields.io/badge/Ver_cambios-34495E?style=flat-square)](https://github.com/Manuelklk03/PortFolio-Personal/pulls)
 
@@ -216,10 +231,12 @@ En ValveDex practico interfaces con React, Next.js y TypeScript. En PulseWatch e
 
 ## Qué estoy haciendo ahora
 
-Cada desplegable muestra el foco del proyecto y dónde seguirlo. Las insignias se actualizan con la actividad de GitHub y abren el historial de commits o las pull requests.
+Cada desplegable muestra el foco del proyecto y dónde seguirlo. Las insignias consultan la actividad de GitHub. Abre la ficha técnica de un proyecto para encontrar el estado documentado, su arquitectura y el trabajo en curso.
 
 <details>
 <summary><strong>ValveDex</strong> · Ampliar el universo Half-Life</summary>
+
+[Ir a arquitectura y estado](#ficha-valvedex)
 
 **En qué estoy trabajando.** Ampliar las fichas de Half-Life, Opposing Force y Blue Shift con personajes, enemigos y mapas.
 
@@ -234,6 +251,8 @@ Cada desplegable muestra el foco del proyecto y dónde seguirlo. Las insignias s
 <details>
 <summary><strong>PulseWatch</strong> · Preparar la base de la monitorización</summary>
 
+[Ir a arquitectura y estado](#ficha-pulsewatch)
+
 **En qué estoy trabajando.** Preparar el primer recorrido, desde registrar un monitor HTTP hasta consultar sus resultados. La arquitectura separa la API del proceso que comprueba los servicios.
 
 [![Último commit de PulseWatch](https://img.shields.io/github/last-commit/Manuelklk03/PulseWatch?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/PulseWatch/commits/) [![Pull requests abiertas de PulseWatch](https://img.shields.io/github/issues-pr/Manuelklk03/PulseWatch?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PulseWatch/pulls)
@@ -244,6 +263,8 @@ Cada desplegable muestra el foco del proyecto y dónde seguirlo. Las insignias s
 
 <details>
 <summary><strong>PartePro</strong> · Definir el flujo de trabajo de los técnicos</summary>
+
+[Ir a arquitectura y estado](#ficha-partepro)
 
 **En qué estoy trabajando.** Definir el flujo completo de un aviso, desde asignar la visita hasta registrar el trabajo y entregar el parte al cliente. El repositorio recoge el alcance y los siguientes pasos.
 
@@ -256,6 +277,8 @@ Cada desplegable muestra el foco del proyecto y dónde seguirlo. Las insignias s
 <details>
 <summary><strong>Digital Fit</strong> · Renovar el proyecto de DAW hacia la versión 2.0</summary>
 
+[Ir a arquitectura y estado](#ficha-digital-fit)
+
 **En qué estoy trabajando.** Renovar mi proyecto de DAW hacia la versión 2.0. El punto de partida reúne entrenamientos, lugares donde entrenar y seguimiento del progreso.
 
 [![Último commit de Digital Fit](https://img.shields.io/github/last-commit/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/commits/) [![Pull requests abiertas de Digital Fit](https://img.shields.io/github/issues-pr/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
@@ -266,6 +289,8 @@ Cada desplegable muestra el foco del proyecto y dónde seguirlo. Las insignias s
 
 <details>
 <summary><strong>Portfolio personal</strong> · Actualizar la presentación de mis proyectos</summary>
+
+[Ir a arquitectura y estado](#ficha-portfolio)
 
 **En qué estoy trabajando.** Mantener al día las fichas de proyectos y mejorar la navegación de la web publicada.
 
