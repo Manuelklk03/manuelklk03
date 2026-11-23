@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 120" width="648" height="120" role="img" aria-labelledby="title" font-family="system-ui, sans-serif">
+  <title id="title">Proyectos destacados</title>
+  <style>
+    .slide { opacity: 0; animation: show 20s ease-in-out infinite; animation-delay: var(--offset); }
+    @keyframes show {
+      0% { opacity: 0; transform: translateY(5px); }
+      2%, 17% { opacity: 1; transform: translateY(0); }
+      20%, 100% { opacity: 0; transform: translateY(-5px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .slide { animation: none; }
+      .s1 { opacity: 1; }
+    }
+  </style>
+  <rect x="1" y="1" width="646" height="118" rx="14" fill="#111c22" stroke="#39876f"/>
+  <g class="slide s1" style="--offset:0s">
+    <rect x="1" y="1" width="646" height="118" rx="14" fill="#111c22" stroke="#f7aa61"/>
+    <rect x="20" y="24" width="4" height="64" rx="2" fill="#f7aa61"/>
+    <text x="38" y="50" fill="#f7aa61" font-size="28" font-weight="700">ValveDex</text>
+    <text x="38" y="77" fill="#d7e5ea" font-size="16">Enciclopedia interactiva de los juegos de Valve</text>
+    <rect x="38" y="96" width="17" height="3" rx="1.5" fill="#f7aa61"/>
+    <rect x="64" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="90" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="116" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="142" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <path d="M608 51h16m-6-6 6 6-6 6" fill="none" stroke="#f7aa61" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="slide s2" style="--offset:4s">
+    <rect x="1" y="1" width="646" height="118" rx="14" fill="#111c22" stroke="#79d7ff"/>
+    <rect x="20" y="24" width="4" height="64" rx="2" fill="#79d7ff"/>
+    <text x="38" y="50" fill="#79d7ff" font-size="28" font-weight="700">PulseWatch</text>
+    <text x="38" y="77" fill="#d7e5ea" font-size="16">Monitorización de webs, APIs e incidencias</text>
+    <rect x="38" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="64" y="96" width="17" height="3" rx="1.5" fill="#79d7ff"/>
+    <rect x="90" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="116" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="142" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <path d="M608 51h16m-6-6 6 6-6 6" fill="none" stroke="#79d7ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="slide s3" style="--offset:8s">
+    <rect x="1" y="1" width="646" height="118" rx="14" fill="#111c22" stroke="#c6b3ff"/>
+    <rect x="20" y="24" width="4" height="64" rx="2" fill="#c6b3ff"/>
+    <text x="38" y="50" fill="#c6b3ff" font-size="28" font-weight="700">PartePro</text>
+    <text x="38" y="77" fill="#d7e5ea" font-size="16">Avisos, visitas y partes para técnicos</text>
+    <rect x="38" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="64" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="90" y="96" width="17" height="3" rx="1.5" fill="#c6b3ff"/>
+    <rect x="116" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="142" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <path d="M608 51h16m-6-6 6 6-6 6" fill="none" stroke="#c6b3ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="slide s4" style="--offset:12s">
+    <rect x="1" y="1" width="646" height="118" rx="14" fill="#111c22" stroke="#b2ec85"/>
+    <rect x="20" y="24" width="4" height="64" rx="2" fill="#b2ec85"/>
+    <text x="38" y="50" fill="#b2ec85" font-size="28" font-weight="700">Digital Fit</text>
+    <text x="38" y="77" fill="#d7e5ea" font-size="16">Entrenamientos, mapas y seguimiento</text>
+    <rect x="38" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="64" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="90" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="116" y="96" width="17" height="3" rx="1.5" fill="#b2ec85"/>
+    <rect x="142" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <path d="M608 51h16m-6-6 6 6-6 6" fill="none" stroke="#b2ec85" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="slide s5" style="--offset:16s">
+    <rect x="1" y="1" width="646" height="118" rx="14" fill="#111c22" stroke="#85ffc5"/>
+    <rect x="20" y="24" width="4" height="64" rx="2" fill="#85ffc5"/>
+    <text x="38" y="50" fill="#85ffc5" font-size="28" font-weight="700">Portfolio personal</text>
+    <text x="38" y="77" fill="#d7e5ea" font-size="16">Perfil, proyectos y terminal interactiva</text>
+    <rect x="38" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="64" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="90" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="116" y="96" width="17" height="3" rx="1.5" fill="#31434b"/>
+    <rect x="142" y="96" width="17" height="3" rx="1.5" fill="#85ffc5"/>
+    <path d="M608 51h16m-6-6 6 6-6 6" fill="none" stroke="#85ffc5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

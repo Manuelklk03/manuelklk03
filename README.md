@@ -2,11 +2,11 @@
 
 **Desarrollador web full stack junior · Valencia**
 
-Construyo aplicaciones web de principio a fin, desde la interfaz hasta la API y los datos. Vengo de Java, Spring Boot y Angular, y en mis proyectos actuales trabajo también con React, Next.js y TypeScript.
+Soy Manuel, titulado en DAW. Me gusta construir aplicaciones que se puedan explorar, desde una enciclopedia de videojuegos hasta un panel para monitorizar APIs. En mis repos puedes ver cómo llevo esas ideas de la interfaz al backend y qué estoy desarrollando ahora.
 
 [![Sobre mí](https://img.shields.io/badge/Sobre_m%C3%AD-00855D?style=for-the-badge)](#sobre-mí) [![Ver proyectos](https://img.shields.io/badge/Ver_proyectos-00855D?style=for-the-badge)](#proyectos) [![Ahora](https://img.shields.io/badge/Ahora-00855D?style=for-the-badge)](#qué-estoy-haciendo-ahora) [![Tecnologías](https://img.shields.io/badge/Tecnolog%C3%ADas-34495E?style=for-the-badge)](#tecnologías) [![Cómo trabajo](https://img.shields.io/badge/C%C3%B3mo_trabajo-34495E?style=for-the-badge)](#cómo-trabajo) [![Contacto](https://img.shields.io/badge/Contacto-34495E?style=for-the-badge)](#contacto)
 
-[![Presentación animada de mi perfil y mis proyectos](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2400&pause=650&color=16966B&width=370&height=28&repeat=true&lines=Full%20stack%20junior%20%C2%B7%20Valencia%3BValveDex%20%C2%B7%20Juegos%20y%20exploraci%C3%B3n%3BPulseWatch%20%C2%B7%20Monitorizaci%C3%B3n%20web%3BPartePro%20%C2%B7%20Gesti%C3%B3n%20de%20avisos%3BDigital%20Fit%20%C2%B7%20Entrenamiento)](#proyectos)
+[![Proyectos destacados: ValveDex, PulseWatch, PartePro, Digital Fit y Portfolio personal. Ver proyectos.](./assets/proyectos-animados.svg)](#proyectos)
 
 ## Proyectos
 
@@ -29,6 +29,19 @@ Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el 
   <a href="https://gsap.com/docs/v3/"><img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="44" height="44" /></a>
 </p>
 
+<details>
+<summary><strong>Ver arquitectura y estado de ValveDex</strong></summary>
+
+| | |
+| --- | --- |
+| **Estado** | En desarrollo. El foco está en Half-Life y sus expansiones. |
+| **Arquitectura** | Next.js organiza las rutas. Los datos de los juegos, los componentes compartidos y las escenas interactivas se mantienen en módulos separados. |
+| **En qué me centro** | Ampliar las fichas de Half-Life, Opposing Force y Blue Shift. |
+
+[Estado actual](https://github.com/Manuelklk03/ValveDex/blob/main/docs/STATUS.md) · [Hoja de ruta](https://github.com/Manuelklk03/ValveDex/blob/main/docs/roadmap.md) · [Ver cambios](https://github.com/Manuelklk03/ValveDex/pulls)
+
+</details>
+
 ### 📡 [PulseWatch](https://github.com/Manuelklk03/PulseWatch)
 
 Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de respuesta y gestionar incidencias.
@@ -48,12 +61,15 @@ Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de res
 </p>
 
 <details>
-<summary>Ver arquitectura y estado de PulseWatch</summary>
+<summary><strong>Ver arquitectura y estado de PulseWatch</strong></summary>
 
-He documentado la arquitectura y preparado la base del frontend. El diseño separa la API del proceso que comprueba los servicios y guarda los resultados en PostgreSQL.
+| | |
+| --- | --- |
+| **Estado** | En diseño, con la base técnica en preparación. |
+| **Arquitectura** | La interfaz usa React. El diseño separa la API FastAPI del proceso que comprueba los destinos. PostgreSQL guarda resultados e incidencias. |
+| **En qué me centro** | Preparar el primer recorrido para registrar un monitor HTTP y consultar sus resultados. |
 
-- [Arquitectura](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/architecture.md)
-- [Hoja de ruta](https://github.com/Manuelklk03/PulseWatch#hoja-de-ruta)
+[Arquitectura](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/architecture.md) · [Hoja de ruta](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/roadmap.md) · [Ver cambios](https://github.com/Manuelklk03/PulseWatch/pulls)
 
 </details>
 
@@ -76,12 +92,15 @@ Proyecto para gestionar avisos e intervenciones de técnicos a domicilio: asigna
 </p>
 
 <details>
-<summary>Ver arquitectura y estado de PartePro</summary>
+<summary><strong>Ver arquitectura y estado de PartePro</strong></summary>
 
-Estoy empezando por la documentación y el entorno de desarrollo. La aplicación ejecutable y la demo siguen pendientes.
+| | |
+| --- | --- |
+| **Estado** | Documentación inicial y definición del alcance. |
+| **Arquitectura** | El diseño propone una interfaz Vue 3 para gestionar avisos, una API Spring Boot y PostgreSQL para persistir clientes, visitas y partes. |
+| **En qué me centro** | Concretar el flujo de trabajo desde el aviso hasta el parte al cliente. |
 
-- [Estado actual](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md)
-- [Arquitectura propuesta](https://github.com/Manuelklk03/PartePro/blob/main/docs/arquitectura.md)
+[Estado actual](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md) · [Arquitectura propuesta](https://github.com/Manuelklk03/PartePro/blob/main/docs/arquitectura.md) · [Ver cambios](https://github.com/Manuelklk03/PartePro/pulls)
 
 </details>
 
@@ -104,6 +123,19 @@ Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y se
   <a href="https://maven.apache.org/guides/"><img src="https://skillicons.dev/icons?i=maven&theme=dark" alt="Maven" width="44" height="44" /></a>
 </p>
 
+<details>
+<summary><strong>Ver arquitectura y estado de Digital Fit</strong></summary>
+
+| | |
+| --- | --- |
+| **Estado** | Proyecto final de DAW en renovación hacia la versión 2.0. |
+| **Arquitectura** | Angular y Leaflet forman la interfaz y el mapa. Spring Boot expone la API y PostgreSQL almacena los datos. |
+| **En qué me centro** | La actividad del repositorio muestra qué partes se están revisando. |
+
+[Ver cambios](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
+
+</details>
+
 ### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
 
 Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una terminal interactiva. La versión v1.0 ya está publicada e incluye mis proyectos, mi perfil y mi CV.
@@ -122,6 +154,19 @@ Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una ter
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PortFolio-Personal)
 [![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
+
+<details>
+<summary><strong>Ver arquitectura y estado de Portfolio personal</strong></summary>
+
+| | |
+| --- | --- |
+| **Estado** | Web publicada y en evolución. |
+| **Arquitectura** | Astro genera las páginas. React y TypeScript gestionan la interacción, y Three.js se usa en la escena ASCII. |
+| **En qué me centro** | Mantener al día las fichas de proyectos y mejorar su navegación. |
+
+[Estado actual](https://github.com/Manuelklk03/PortFolio-Personal/blob/main/docs/ESTADO.md) · [Decisiones técnicas](https://github.com/Manuelklk03/PortFolio-Personal/blob/main/docs/DECISIONES.md) · [Ver cambios](https://github.com/Manuelklk03/PortFolio-Personal/pulls)
+
+</details>
 
 ## Sobre mí
 
