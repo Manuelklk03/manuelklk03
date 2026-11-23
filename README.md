@@ -6,7 +6,7 @@ Soy Manuel, titulado en Desarrollo de Aplicaciones Web. Aprendo construyendo pro
 
 [![Presentación animada de mi perfil y mis proyectos](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2400&pause=650&color=00855D&width=370&height=28&repeat=true&lines=Full%20stack%20junior%20%C2%B7%20Valencia%3BValveDex%20%C2%B7%20Juegos%20y%20exploraci%C3%B3n%3BPulseWatch%20%C2%B7%20Monitorizaci%C3%B3n%20web%3BPartePro%20%C2%B7%20Gesti%C3%B3n%20de%20avisos%3BDigital%20Fit%20%C2%B7%20Entrenamiento)](#proyectos)
 
-[![Sobre mí](https://img.shields.io/badge/Sobre_m%C3%AD-00855D?style=for-the-badge)](#sobre-mí) [![Ver proyectos](https://img.shields.io/badge/Ver_proyectos-00855D?style=for-the-badge)](#proyectos) [![Tecnologías](https://img.shields.io/badge/Tecnolog%C3%ADas-34495E?style=for-the-badge)](#tecnologías) [![Cómo trabajo](https://img.shields.io/badge/C%C3%B3mo_trabajo-34495E?style=for-the-badge)](#cómo-trabajo) [![Contacto](https://img.shields.io/badge/Contacto-34495E?style=for-the-badge)](#contacto)
+[![Sobre mí](https://img.shields.io/badge/Sobre_m%C3%AD-00855D?style=for-the-badge)](#sobre-mí) [![Ver proyectos](https://img.shields.io/badge/Ver_proyectos-00855D?style=for-the-badge)](#proyectos) [![Ahora](https://img.shields.io/badge/Ahora-00855D?style=for-the-badge)](#qué-estoy-haciendo-ahora) [![Tecnologías](https://img.shields.io/badge/Tecnolog%C3%ADas-34495E?style=for-the-badge)](#tecnologías) [![Cómo trabajo](https://img.shields.io/badge/C%C3%B3mo_trabajo-34495E?style=for-the-badge)](#cómo-trabajo) [![Contacto](https://img.shields.io/badge/Contacto-34495E?style=for-the-badge)](#contacto)
 
 ## Proyectos
 
@@ -20,6 +20,15 @@ Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el 
 
 **Stack:** [React](https://react.dev) · [Next.js](https://nextjs.org/docs) · [TypeScript](https://www.typescriptlang.org/docs/) · [Tailwind CSS](https://tailwindcss.com/docs) · [Three.js](https://threejs.org/docs/) · [GSAP](https://gsap.com/docs/v3/)
 
+<p>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="44" height="44" /></a>
+  <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="44" height="44" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="44" height="44" /></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="44" height="44" /></a>
+  <a href="https://threejs.org/docs/"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" width="44" height="44" /></a>
+  <a href="https://gsap.com/docs/v3/"><img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="44" height="44" /></a>
+</p>
+
 ### 📡 [PulseWatch](https://github.com/Manuelklk03/PulseWatch)
 
 Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de respuesta y gestionar incidencias.
@@ -27,6 +36,16 @@ Plataforma en construcción para monitorizar webs y APIs, guardar tiempos de res
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PulseWatch)
 
 **Stack:** [React](https://react.dev) · [TypeScript](https://www.typescriptlang.org/docs/) · [Vite](https://vite.dev/guide/) · [Python](https://docs.python.org/3/) · [FastAPI](https://fastapi.tiangolo.com) · [PostgreSQL](https://www.postgresql.org/docs/) · [Docker](https://docs.docker.com)
+
+<p>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="44" height="44" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="44" height="44" /></a>
+  <a href="https://vite.dev/guide/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" width="44" height="44" /></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" width="44" height="44" /></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="44" height="44" /></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="44" height="44" /></a>
+  <a href="https://docs.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="44" height="44" /></a>
+</p>
 
 <details>
 <summary>Ver arquitectura y estado de PulseWatch</summary>
@@ -46,6 +65,16 @@ Proyecto para gestionar avisos e intervenciones de técnicos a domicilio: asigna
 
 **Stack previsto:** [Vue 3](https://vuejs.org/guide/introduction.html) · [TypeScript](https://www.typescriptlang.org/docs/) · [Vite](https://vite.dev/guide/) · [Java](https://dev.java/learn/) · [Spring Boot](https://docs.spring.io/spring-boot/) · [PostgreSQL](https://www.postgresql.org/docs/) · [Docker](https://docs.docker.com)
 
+<p>
+  <a href="https://vuejs.org/guide/introduction.html"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue 3" width="44" height="44" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="44" height="44" /></a>
+  <a href="https://vite.dev/guide/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" width="44" height="44" /></a>
+  <a href="https://dev.java/learn/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="44" height="44" /></a>
+  <a href="https://docs.spring.io/spring-boot/"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" width="44" height="44" /></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="44" height="44" /></a>
+  <a href="https://docs.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="44" height="44" /></a>
+</p>
+
 <details>
 <summary>Ver arquitectura y estado de PartePro</summary>
 
@@ -64,6 +93,17 @@ Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y se
 
 **Stack:** [Angular](https://angular.dev) · [TypeScript](https://www.typescriptlang.org/docs/) · [Leaflet](https://leafletjs.com/reference.html) · [Java](https://dev.java/learn/) · [Spring Boot](https://docs.spring.io/spring-boot/) · [PostgreSQL](https://www.postgresql.org/docs/) · [Docker](https://docs.docker.com) · [Maven](https://maven.apache.org/guides/)
 
+<p>
+  <a href="https://angular.dev"><img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" width="44" height="44" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="44" height="44" /></a>
+  <a href="https://leafletjs.com/reference.html"><img src="https://cdn.simpleicons.org/leaflet/199900" alt="Leaflet" width="44" height="44" /></a>
+  <a href="https://dev.java/learn/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="44" height="44" /></a>
+  <a href="https://docs.spring.io/spring-boot/"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" width="44" height="44" /></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="44" height="44" /></a>
+  <a href="https://docs.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="44" height="44" /></a>
+  <a href="https://maven.apache.org/guides/"><img src="https://skillicons.dev/icons?i=maven&theme=dark" alt="Maven" width="44" height="44" /></a>
+</p>
+
 ### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
 
 Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una terminal interactiva. La versión v1.0 ya está publicada e incluye mis proyectos, mi perfil y mi CV.
@@ -72,43 +112,95 @@ Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una ter
 
 **Stack:** [Astro](https://docs.astro.build) · [React](https://react.dev) · [TypeScript](https://www.typescriptlang.org/docs/) · [Tailwind CSS](https://tailwindcss.com/docs) · [Three.js](https://threejs.org/docs/)
 
+<p>
+  <a href="https://docs.astro.build"><img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" width="44" height="44" /></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="44" height="44" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="44" height="44" /></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="44" height="44" /></a>
+  <a href="https://threejs.org/docs/"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" width="44" height="44" /></a>
+</p>
+
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PortFolio-Personal)
 [![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
 
 ## Sobre mí
 
-Trabajo con Java, Spring Boot y TypeScript. En mis proyectos actuales estoy profundizando en React, Next.js y en cómo organizar y documentar un backend.
+Soy **Manuel Casinos Pérez**, desarrollador full stack junior en Valencia y titulado en Desarrollo de Aplicaciones Web. Me gusta llevar una idea desde la interfaz hasta la API y los datos, y dejar documentado cómo se construye y cómo se prueba.
 
 <details>
-<summary>Mi formación y cómo trabajo</summary>
+<summary>Mi formación y lo que estoy aprendiendo</summary>
 
-Soy titulado en Desarrollo de Aplicaciones Web. En mis proyectos practico desde el diseño de la interfaz hasta la documentación, las pruebas y la automatización.
+Empecé con Java, Spring Boot y Angular durante DAW. Ahora estoy profundizando en React, Next.js y TypeScript, y aplico lo aprendido en proyectos propios como ValveDex y PulseWatch.
 
-[Ver tecnologías](#tecnologías) · [Cómo trabajo](#cómo-trabajo) · [Contacto](#contacto)
+[Explorar mis tecnologías](#tecnologías) · [Contactar conmigo](#contacto)
 
 </details>
 
-<details open>
-<summary>Qué se está haciendo en mis proyectos</summary>
+<details>
+<summary>Cómo llevo una idea al código</summary>
 
-Pulsa el nombre de un proyecto para ver sus últimos commits o abre sus pull requests para consultar los cambios en curso.
+Primero delimito qué tiene que resolver el proyecto. Después documento las decisiones, trabajo por ramas y uso pull requests para revisar cambios. Voy incorporando pruebas, integración continua y análisis de calidad conforme avanza cada repositorio.
 
-[![Último commit de ValveDex](https://img.shields.io/github/last-commit/Manuelklk03/ValveDex?style=flat-square&logo=github&label=ValveDex&color=00855D)](https://github.com/Manuelklk03/ValveDex/commits/)
-[![Pull requests abiertas de ValveDex](https://img.shields.io/github/issues-pr/Manuelklk03/ValveDex?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/ValveDex/pulls)
+[Ver cómo trabajo](#cómo-trabajo) · [Ver actividad actual](#qué-estoy-haciendo-ahora)
 
-[![Último commit de PulseWatch](https://img.shields.io/github/last-commit/Manuelklk03/PulseWatch?style=flat-square&logo=github&label=PulseWatch&color=00855D)](https://github.com/Manuelklk03/PulseWatch/commits/)
-[![Pull requests abiertas de PulseWatch](https://img.shields.io/github/issues-pr/Manuelklk03/PulseWatch?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PulseWatch/pulls)
+</details>
 
-[![Último commit de PartePro](https://img.shields.io/github/last-commit/Manuelklk03/PartePro?style=flat-square&logo=github&label=PartePro&color=00855D)](https://github.com/Manuelklk03/PartePro/commits/)
-[![Pull requests abiertas de PartePro](https://img.shields.io/github/issues-pr/Manuelklk03/PartePro?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PartePro/pulls)
+## Qué estoy haciendo ahora
 
-[![Último commit de Digital Fit](https://img.shields.io/github/last-commit/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&logo=github&label=Digital%20Fit&color=00855D)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/commits/)
-[![Pull requests abiertas de Digital Fit](https://img.shields.io/github/issues-pr/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
+Estoy ampliando ValveDex, definiendo las bases de PulseWatch y PartePro, y renovando Digital Fit. Abre cada proyecto para ver su foco, consultar el detalle en el repositorio y seguir su actividad reciente.
 
-[![Último commit de Portfolio personal](https://img.shields.io/github/last-commit/Manuelklk03/PortFolio-Personal?style=flat-square&logo=github&label=Portfolio%20personal&color=00855D)](https://github.com/Manuelklk03/PortFolio-Personal/commits/)
-[![Pull requests abiertas de Portfolio personal](https://img.shields.io/github/issues-pr/Manuelklk03/PortFolio-Personal?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PortFolio-Personal/pulls)
+<details>
+<summary><strong>ValveDex</strong> · Ampliar el universo Half-Life</summary>
 
-[Hoja de ruta de PulseWatch](https://github.com/Manuelklk03/PulseWatch#hoja-de-ruta) · [Estado actual de PartePro](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md)
+Estoy completando las fichas de Half-Life, Opposing Force y Blue Shift. El roadmap recoge los siguientes juegos y tipos de ficha.
+
+[![Último commit de ValveDex](https://img.shields.io/github/last-commit/Manuelklk03/ValveDex?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/ValveDex/commits/) [![Pull requests abiertas de ValveDex](https://img.shields.io/github/issues-pr/Manuelklk03/ValveDex?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/ValveDex/pulls)
+
+[Estado del desarrollo](https://github.com/Manuelklk03/ValveDex/blob/main/docs/STATUS.md)
+
+</details>
+
+<details>
+<summary><strong>PulseWatch</strong> · Preparar la base de la monitorización</summary>
+
+Estoy definiendo la arquitectura y la base técnica para registrar monitores HTTP, guardar resultados y gestionar las incidencias.
+
+[![Último commit de PulseWatch](https://img.shields.io/github/last-commit/Manuelklk03/PulseWatch?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/PulseWatch/commits/) [![Pull requests abiertas de PulseWatch](https://img.shields.io/github/issues-pr/Manuelklk03/PulseWatch?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PulseWatch/pulls)
+
+[Hoja de ruta](https://github.com/Manuelklk03/PulseWatch#hoja-de-ruta)
+
+</details>
+
+<details>
+<summary><strong>PartePro</strong> · Definir el flujo de trabajo de los técnicos</summary>
+
+Estoy documentando el recorrido desde el aviso y la asignación de la visita hasta el parte. El estado del repositorio recoge el siguiente paso.
+
+[![Último commit de PartePro](https://img.shields.io/github/last-commit/Manuelklk03/PartePro?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/PartePro/commits/) [![Pull requests abiertas de PartePro](https://img.shields.io/github/issues-pr/Manuelklk03/PartePro?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PartePro/pulls)
+
+[Estado actual](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md)
+
+</details>
+
+<details>
+<summary><strong>Digital Fit</strong> · Renovar el proyecto de DAW hacia la versión 2.0</summary>
+
+La aplicación reúne entrenamientos, lugares donde entrenar y seguimiento del progreso. Los commits y las PR muestran qué partes están cambiando.
+
+[![Último commit de Digital Fit](https://img.shields.io/github/last-commit/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/commits/) [![Pull requests abiertas de Digital Fit](https://img.shields.io/github/issues-pr/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
+
+[Ver repositorio](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
+
+</details>
+
+<details>
+<summary><strong>Portfolio personal</strong> · Actualizar la presentación de mis proyectos</summary>
+
+La web está publicada. Voy ampliando las fichas de proyectos y mejorando cómo se navegan y se consultan.
+
+[![Último commit de Portfolio personal](https://img.shields.io/github/last-commit/Manuelklk03/PortFolio-Personal?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/PortFolio-Personal/commits/) [![Pull requests abiertas de Portfolio personal](https://img.shields.io/github/issues-pr/Manuelklk03/PortFolio-Personal?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PortFolio-Personal/pulls)
+
+[Ver documentación](https://github.com/Manuelklk03/PortFolio-Personal)
 
 </details>
 
