@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 146" width="680" height="146" role="img" aria-labelledby="title">
+  <title id="title">Manuel Casinos Pérez</title>
+  <style>
+    .scan { animation: pass 3.2s linear infinite; }
+    .name { animation: glow 3.2s ease-in-out infinite alternate; }
+    @keyframes glow { from { fill: #c6f6df; } to { fill: #ffffff; } }
+    .prompt { animation: breathe 1.6s ease-in-out infinite alternate; }
+    @keyframes pass { from { transform: translateX(-156px); } to { transform: translateX(680px); } }
+    @keyframes breathe { from { opacity: .65; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .scan { display: none; }
+      .name { animation: glow 3.2s ease-in-out infinite alternate; }
+    @keyframes glow { from { fill: #c6f6df; } to { fill: #ffffff; } }
+    .prompt, .name { animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1">
+      <stop stop-color="#122b26"/>
+      <stop offset="1" stop-color="#0b141a"/>
+    </linearGradient>
+    <linearGradient id="beam">
+      <stop stop-color="#49e5a4" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#baffdf"/>
+      <stop offset="1" stop-color="#49e5a4" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#65e9b3" stroke-opacity=".14"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="678" height="144" rx="17"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="680" height="146" fill="url(#panel)"/>
+    <rect x="600" width="80" height="146" fill="url(#grid)"/>
+    <rect y="140" width="680" height="6" fill="#245749"/>
+    <rect class="scan" y="140" width="156" height="6" fill="url(#beam)"/>
+  </g>
+  <rect x="1" y="1" width="678" height="144" rx="17" fill="none" stroke="#39876f" stroke-width="2"/>
+  <rect x="24" y="29" width="76" height="76" rx="12" fill="#0b1e1a" stroke="#39876f"/>
+  <path class="prompt" d="m48 54 13 13-13 13m20 1h9" fill="none" stroke="#85ffc5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="name" x="120" y="83" fill="#eafff5" font-family="Consolas, Menlo, monospace" font-size="43" font-weight="700" textLength="480" lengthAdjust="spacingAndGlyphs">Manuel Casinos Pérez</text>
+</svg>

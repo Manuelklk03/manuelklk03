@@ -1,12 +1,12 @@
-<h1><a href="#sobre-mí"><img src="./assets/nombre-animado.svg" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="550" height="104" /></a></h1>
+<h1><a href="#sobre-mí"><img src="./assets/cabecera-perfil.svg" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="680" height="146" /></a></h1>
 
-**Desarrollador full stack junior · Valencia**
+**Desarrollador web full stack junior · Valencia**
 
-Soy Manuel, titulado en Desarrollo de Aplicaciones Web. Aprendo construyendo proyectos propios, desde la interfaz hasta el backend. Aquí puedes explorar lo que estoy desarrollando y consultar el código.
-
-[![Presentación animada de mi perfil y mis proyectos](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2400&pause=650&color=00855D&width=370&height=28&repeat=true&lines=Full%20stack%20junior%20%C2%B7%20Valencia%3BValveDex%20%C2%B7%20Juegos%20y%20exploraci%C3%B3n%3BPulseWatch%20%C2%B7%20Monitorizaci%C3%B3n%20web%3BPartePro%20%C2%B7%20Gesti%C3%B3n%20de%20avisos%3BDigital%20Fit%20%C2%B7%20Entrenamiento)](#proyectos)
+Construyo aplicaciones web de principio a fin, desde la interfaz hasta la API y los datos. Vengo de Java, Spring Boot y Angular, y en mis proyectos actuales trabajo también con React, Next.js y TypeScript.
 
 [![Sobre mí](https://img.shields.io/badge/Sobre_m%C3%AD-00855D?style=for-the-badge)](#sobre-mí) [![Ver proyectos](https://img.shields.io/badge/Ver_proyectos-00855D?style=for-the-badge)](#proyectos) [![Ahora](https://img.shields.io/badge/Ahora-00855D?style=for-the-badge)](#qué-estoy-haciendo-ahora) [![Tecnologías](https://img.shields.io/badge/Tecnolog%C3%ADas-34495E?style=for-the-badge)](#tecnologías) [![Cómo trabajo](https://img.shields.io/badge/C%C3%B3mo_trabajo-34495E?style=for-the-badge)](#cómo-trabajo) [![Contacto](https://img.shields.io/badge/Contacto-34495E?style=for-the-badge)](#contacto)
+
+[![Presentación animada de mi perfil y mis proyectos](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2400&pause=650&color=16966B&width=370&height=28&repeat=true&lines=Full%20stack%20junior%20%C2%B7%20Valencia%3BValveDex%20%C2%B7%20Juegos%20y%20exploraci%C3%B3n%3BPulseWatch%20%C2%B7%20Monitorizaci%C3%B3n%20web%3BPartePro%20%C2%B7%20Gesti%C3%B3n%20de%20avisos%3BDigital%20Fit%20%C2%B7%20Entrenamiento)](#proyectos)
 
 ## Proyectos
 
@@ -125,45 +125,56 @@ Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una ter
 
 ## Sobre mí
 
-Soy **Manuel Casinos Pérez**, desarrollador full stack junior en Valencia y titulado en Desarrollo de Aplicaciones Web. Me gusta llevar una idea desde la interfaz hasta la API y los datos, y dejar documentado cómo se construye y cómo se prueba.
+Me formé en **Desarrollo de Aplicaciones Web** y busco mi primer puesto como desarrollador. Me interesa tanto lo que la persona ve y usa como lo que hay detrás para que funcione.
 
 <details>
-<summary>Mi formación y lo que estoy aprendiendo</summary>
+<summary><strong>Mi formación y mi primer proyecto full stack</strong></summary>
 
-Empecé con Java, Spring Boot y Angular durante DAW. Ahora estoy profundizando en React, Next.js y TypeScript, y aplico lo aprendido en proyectos propios como ValveDex y PulseWatch.
+Digital Fit nació como mi proyecto final de DAW. Lo usé para conectar Angular con una API en Spring Boot y PostgreSQL, e incorporar mapas con Leaflet. Ahora me sirve de base para trabajar en la versión 2.0.
 
-[Explorar mis tecnologías](#tecnologías) · [Contactar conmigo](#contacto)
+[Ver el código de Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto) · [Ver mi stack](#tecnologías)
 
 </details>
 
 <details>
-<summary>Cómo llevo una idea al código</summary>
+<summary><strong>Una web publicada para un cliente real</strong></summary>
 
-Primero delimito qué tiene que resolver el proyecto. Después documento las decisiones, trabajo por ramas y uso pull requests para revisar cambios. Voy incorporando pruebas, integración continua y análisis de calidad conforme avanza cada repositorio.
+Cerrajería NOA es una web que presenta los servicios y trabajos del negocio en tres idiomas, con acceso directo al contacto.
 
-[Ver cómo trabajo](#cómo-trabajo) · [Ver actividad actual](#qué-estoy-haciendo-ahora)
+[Ver la web de Cerrajería NOA](https://cerrajerianoa.es/es)
+
+</details>
+
+<details>
+<summary><strong>Qué estoy aprendiendo y cómo trabajo</strong></summary>
+
+En ValveDex practico interfaces con React, Next.js y TypeScript. En PulseWatch estoy trabajando el otro lado del problema, con decisiones de API, datos y comprobaciones en segundo plano. Documento el alcance, separo los cambios en ramas y reviso las pull requests antes de integrarlas.
+
+[Ver actividad de los proyectos](#qué-estoy-haciendo-ahora) · [Cómo trabajo](#cómo-trabajo) · [Contactar](#contacto)
 
 </details>
 
 ## Qué estoy haciendo ahora
 
-Estoy ampliando ValveDex, definiendo las bases de PulseWatch y PartePro, y renovando Digital Fit. Abre cada proyecto para ver su foco, consultar el detalle en el repositorio y seguir su actividad reciente.
+Cada desplegable muestra el foco del proyecto y dónde seguirlo. Las insignias se actualizan con la actividad de GitHub y abren el historial de commits o las pull requests.
 
 <details>
 <summary><strong>ValveDex</strong> · Ampliar el universo Half-Life</summary>
 
-Estoy completando las fichas de Half-Life, Opposing Force y Blue Shift. El roadmap recoge los siguientes juegos y tipos de ficha.
+**En qué estoy trabajando.** Ampliar las fichas de Half-Life, Opposing Force y Blue Shift con personajes, enemigos y mapas.
+
+**Dónde seguirlo.** El estado del repositorio recoge el punto de partida y el roadmap ordena las siguientes incorporaciones.
 
 [![Último commit de ValveDex](https://img.shields.io/github/last-commit/Manuelklk03/ValveDex?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/ValveDex/commits/) [![Pull requests abiertas de ValveDex](https://img.shields.io/github/issues-pr/Manuelklk03/ValveDex?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/ValveDex/pulls)
 
-[Estado del desarrollo](https://github.com/Manuelklk03/ValveDex/blob/main/docs/STATUS.md)
+[Estado del desarrollo](https://github.com/Manuelklk03/ValveDex/blob/main/docs/STATUS.md) · [Roadmap](https://github.com/Manuelklk03/ValveDex/blob/main/docs/roadmap.md)
 
 </details>
 
 <details>
 <summary><strong>PulseWatch</strong> · Preparar la base de la monitorización</summary>
 
-Estoy definiendo la arquitectura y la base técnica para registrar monitores HTTP, guardar resultados y gestionar las incidencias.
+**En qué estoy trabajando.** Preparar el primer recorrido, desde registrar un monitor HTTP hasta consultar sus resultados. La arquitectura separa la API del proceso que comprueba los servicios.
 
 [![Último commit de PulseWatch](https://img.shields.io/github/last-commit/Manuelklk03/PulseWatch?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/PulseWatch/commits/) [![Pull requests abiertas de PulseWatch](https://img.shields.io/github/issues-pr/Manuelklk03/PulseWatch?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PulseWatch/pulls)
 
@@ -174,7 +185,7 @@ Estoy definiendo la arquitectura y la base técnica para registrar monitores HTT
 <details>
 <summary><strong>PartePro</strong> · Definir el flujo de trabajo de los técnicos</summary>
 
-Estoy documentando el recorrido desde el aviso y la asignación de la visita hasta el parte. El estado del repositorio recoge el siguiente paso.
+**En qué estoy trabajando.** Definir el flujo completo de un aviso, desde asignar la visita hasta registrar el trabajo y entregar el parte al cliente. El repositorio recoge el alcance y los siguientes pasos.
 
 [![Último commit de PartePro](https://img.shields.io/github/last-commit/Manuelklk03/PartePro?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/PartePro/commits/) [![Pull requests abiertas de PartePro](https://img.shields.io/github/issues-pr/Manuelklk03/PartePro?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PartePro/pulls)
 
@@ -185,7 +196,7 @@ Estoy documentando el recorrido desde el aviso y la asignación de la visita has
 <details>
 <summary><strong>Digital Fit</strong> · Renovar el proyecto de DAW hacia la versión 2.0</summary>
 
-La aplicación reúne entrenamientos, lugares donde entrenar y seguimiento del progreso. Los commits y las PR muestran qué partes están cambiando.
+**En qué estoy trabajando.** Renovar mi proyecto de DAW hacia la versión 2.0. El punto de partida reúne entrenamientos, lugares donde entrenar y seguimiento del progreso.
 
 [![Último commit de Digital Fit](https://img.shields.io/github/last-commit/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/commits/) [![Pull requests abiertas de Digital Fit](https://img.shields.io/github/issues-pr/Manuelklk03/Digital-Fit-Proyecto?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/Digital-Fit-Proyecto/pulls)
 
@@ -196,7 +207,7 @@ La aplicación reúne entrenamientos, lugares donde entrenar y seguimiento del p
 <details>
 <summary><strong>Portfolio personal</strong> · Actualizar la presentación de mis proyectos</summary>
 
-La web está publicada. Voy ampliando las fichas de proyectos y mejorando cómo se navegan y se consultan.
+**En qué estoy trabajando.** Mantener al día las fichas de proyectos y mejorar la navegación de la web publicada.
 
 [![Último commit de Portfolio personal](https://img.shields.io/github/last-commit/Manuelklk03/PortFolio-Personal?style=flat-square&logo=github&label=%C3%9Altimo%20commit&color=00855D)](https://github.com/Manuelklk03/PortFolio-Personal/commits/) [![Pull requests abiertas de Portfolio personal](https://img.shields.io/github/issues-pr/Manuelklk03/PortFolio-Personal?style=flat-square&label=PR%20abiertas&color=34495E)](https://github.com/Manuelklk03/PortFolio-Personal/pulls)
 
