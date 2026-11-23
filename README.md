@@ -2,9 +2,11 @@
 
 **Desarrollador full stack junior · Valencia**
 
-[![Ver proyectos](https://img.shields.io/badge/Ver_proyectos-00855D?style=for-the-badge)](#proyectos)
-[![Tecnologías](https://img.shields.io/badge/Tecnolog%C3%ADas-34495E?style=for-the-badge)](#tecnologías)
-[![Cómo trabajo](https://img.shields.io/badge/C%C3%B3mo_trabajo-34495E?style=for-the-badge)](#cómo-trabajo)
+Soy Manuel, titulado en Desarrollo de Aplicaciones Web. Aprendo construyendo proyectos propios, desde la interfaz hasta el backend. Aquí puedes explorar lo que estoy desarrollando y consultar el código.
+
+[![Presentación animada de mi perfil y mis proyectos](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2400&pause=650&color=00855D&width=370&height=28&repeat=true&lines=Full%20stack%20junior%20%C2%B7%20Valencia%3BValveDex%20%C2%B7%20Juegos%20y%20exploraci%C3%B3n%3BPulseWatch%20%C2%B7%20Monitorizaci%C3%B3n%20web%3BPartePro%20%C2%B7%20Gesti%C3%B3n%20de%20avisos%3BDigital%20Fit%20%C2%B7%20Entrenamiento)](#proyectos)
+
+[![Sobre mí](https://img.shields.io/badge/Sobre_m%C3%AD-00855D?style=for-the-badge)](#sobre-mí) [![Ver proyectos](https://img.shields.io/badge/Ver_proyectos-00855D?style=for-the-badge)](#proyectos) [![Tecnologías](https://img.shields.io/badge/Tecnolog%C3%ADas-34495E?style=for-the-badge)](#tecnologías) [![Cómo trabajo](https://img.shields.io/badge/C%C3%B3mo_trabajo-34495E?style=for-the-badge)](#cómo-trabajo) [![Contacto](https://img.shields.io/badge/Contacto-34495E?style=for-the-badge)](#contacto)
 
 ## Proyectos
 
@@ -16,12 +18,19 @@ Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el 
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/ValveDex)
 
+<details>
+<summary>Qué estoy construyendo en ValveDex</summary>
+
+La primera parte explora Half-Life y sus expansiones.
+
 **Stack:** `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Three.js` · `GSAP`
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS y Three.js" height="48" />
   <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="48" height="48" />
 </p>
+
+</details>
 
 ### 📡 [PulseWatch](https://github.com/Manuelklk03/PulseWatch)
 
@@ -37,11 +46,11 @@ He documentado la arquitectura y preparado la base del frontend. El diseño sepa
 - [Arquitectura](https://github.com/Manuelklk03/PulseWatch/blob/main/docs/architecture.md)
 - [Hoja de ruta](https://github.com/Manuelklk03/PulseWatch#hoja-de-ruta)
 
-</details>
-
 **Stack:** `React` · `TypeScript` · `Vite` · `Python` · `FastAPI` · `PostgreSQL` · `Docker`
 
 ![Iconos de React, TypeScript, Vite, Python, FastAPI, PostgreSQL y Docker](https://skillicons.dev/icons?i=react,ts,vite,py,fastapi,postgres,docker&theme=dark)
+
+</details>
 
 ### 🛠️ [PartePro](https://github.com/Manuelklk03/PartePro)
 
@@ -57,17 +66,20 @@ Estoy empezando por la documentación y el entorno de desarrollo. La aplicación
 - [Estado actual](https://github.com/Manuelklk03/PartePro/blob/main/docs/STATUS.md)
 - [Arquitectura propuesta](https://github.com/Manuelklk03/PartePro/blob/main/docs/arquitectura.md)
 
-</details>
-
 **Stack previsto:** `Vue 3` · `TypeScript` · `Vite` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker`
 
 ![Iconos de Vue, TypeScript, Vite, Java, Spring Boot, PostgreSQL y Docker](https://skillicons.dev/icons?i=vue,ts,vite,java,spring,postgres,docker&theme=dark)
+
+</details>
 
 ### 🏋️ [Digital Fit](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
 
 Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0.
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
+
+<details>
+<summary>Ver el stack de Digital Fit</summary>
 
 **Stack:** `Angular` · `TypeScript` · `Leaflet` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Maven`
 
@@ -76,22 +88,29 @@ Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y se
   <img src="https://cdn.simpleicons.org/leaflet/199900" alt="Leaflet" width="48" height="48" />
 </p>
 
+</details>
+
 ### 🌐 [Portfolio personal](https://github.com/Manuelklk03/PortFolio-Personal)
 
 Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una terminal interactiva. La versión v1.0 ya está publicada e incluye mis proyectos, mi perfil y mi CV.
 
 [![Animación de Morfeo en ASCII con lluvia de código Matrix para mi portfolio](./assets/portfolio-matrix-ascii.gif)](https://manuelcasinos.es/)
 
+<details>
+<summary>Ver el stack del portfolio</summary>
+
 **Stack:** `Astro` · `React` · `TypeScript` · `Tailwind CSS` · `Three.js`
 
 ![Iconos de Astro, React, TypeScript, Tailwind CSS y Three.js](https://skillicons.dev/icons?i=astro,react,ts,tailwind,threejs&theme=dark)
+
+</details>
 
 [![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PortFolio-Personal)
 [![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
 
 ## Sobre mí
 
-Terminé DAW y sigo aprendiendo con proyectos propios, del frontend al backend.
+Trabajo con Java, Spring Boot y TypeScript. En mis proyectos actuales estoy profundizando en React, Next.js y en cómo organizar y documentar un backend.
 
 <details>
 <summary>Qué estoy construyendo ahora</summary>
@@ -99,7 +118,7 @@ Terminé DAW y sigo aprendiendo con proyectos propios, del frontend al backend.
 - En **ValveDex**, estoy desarrollando primero el universo de Half-Life y sus expansiones.
 - En **PulseWatch**, estoy definiendo la arquitectura y preparando la base técnica para monitorizar webs y APIs.
 
-[Ver proyectos](#proyectos)
+[![Volver a proyectos](https://img.shields.io/badge/Volver_a_proyectos-00855D?style=for-the-badge)](#proyectos)
 
 </details>
 
