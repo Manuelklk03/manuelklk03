@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 104" width="550" height="104" role="img" aria-labelledby="title">
+  <title id="title">Manuel Casinos Pérez</title>
+  <style>
+    .reveal { animation: type 4.8s steps(20, end) infinite; }
+    .cursor { animation: travel 4.8s steps(20, end) infinite, blink 0.8s step-end infinite; }
+    @keyframes type {
+      0% { width: 0; }
+      36%, 90% { width: 431px; }
+      100% { width: 0; }
+    }
+    @keyframes travel {
+      0% { transform: translateX(0); }
+      36%, 90% { transform: translateX(431px); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { animation: none; }
+      .cursor { display: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="name-reveal"><rect class="reveal" x="54" y="24" width="431" height="56"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="548" height="102" rx="13" fill="#101a19" stroke="#24644f" stroke-width="2"/>
+  <path d="m25 45 9 7-9 7" fill="none" stroke="#66f5b5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="54" y="65" fill="#e2fff0" font-family="Consolas, Menlo, monospace" font-size="32" font-weight="700" textLength="430" lengthAdjust="spacingAndGlyphs" clip-path="url(#name-reveal)">Manuel Casinos Pérez</text>
+  <rect class="cursor" x="55" y="39" width="3" height="28" rx="1.5" fill="#66f5b5"/>
+</svg>
