@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 146" width="680" height="146" role="img" aria-labelledby="title">
+  <title id="title">Manuel Casinos Pérez</title>
+  <style>
+    .scan { animation: sweep 3.8s linear infinite; }
+    .cursor { animation: pulse 1.3s ease-in-out infinite alternate; }
+    @keyframes sweep { from { transform: translateX(-180px); } to { transform: translateX(720px); } }
+    @keyframes pulse { from { opacity: .38; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .scan { display: none; }
+      .cursor { animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="panel" x2="100%" y2="100%">
+      <stop stop-color="#102c26"/><stop offset="1" stop-color="#0a1319"/>
+    </linearGradient>
+    <linearGradient id="shine">
+      <stop stop-color="#69f4bd" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#69f4bd" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="678" height="144" rx="17"/></clipPath>
+    <text id="name" x="118" y="87" font-family="Consolas, Menlo, monospace" font-size="43" font-weight="700" textLength="474" lengthAdjust="spacingAndGlyphs">Manuel Casinos Pérez</text>
+    <clipPath id="letters"><use href="#name"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="680" height="146" fill="url(#panel)"/>
+    <path d="M610 0v146m20-146v146m20-146v146m20-146v146M610 24h70m-70 24h70m-70 24h70m-70 24h70m-70 24h70" fill="none" stroke="#6bdfb2" stroke-opacity=".14"/>
+    <rect y="140" width="680" height="6" fill="#265749"/>
+    <rect class="scan" y="140" width="180" height="6" fill="url(#shine)"/>
+  </g>
+  <rect x="1" y="1" width="678" height="144" rx="17" fill="none" stroke="#39876f" stroke-width="2"/>
+  <rect x="24" y="33" width="72" height="72" rx="12" fill="#0a201b" stroke="#39876f"/>
+  <path d="m46 55 14 14-14 14" fill="none" stroke="#79ffbe" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="cursor" d="M67 84h10" stroke="#79ffbe" stroke-width="4" stroke-linecap="round"/>
+  <use href="#name" fill="#9beac5"/>
+  <g clip-path="url(#letters)"><rect class="scan" y="38" width="180" height="64" fill="url(#shine)"/></g>
+</svg>
