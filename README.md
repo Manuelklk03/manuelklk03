@@ -1,4 +1,4 @@
-<h1><a href="#sobre-mí"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=26&amp;duration=1800&amp;color=00855D&amp;width=360&amp;height=42&amp;repeat=false&amp;lines=Manuel%20Casinos%20P%C3%A9rez" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="360" height="42" /></a></h1>
+<h1><a href="#sobre-mí"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=26&amp;duration=1800&amp;color=00855D&amp;width=360&amp;height=42&amp;repeat=true&amp;lines=Manuel%20Casinos%20P%C3%A9rez" alt="Manuel Casinos Pérez · Ir a Sobre mí" width="360" height="42" /></a></h1>
 
 **Desarrollador full stack junior · Valencia**
 
@@ -13,6 +13,8 @@
 Enciclopedia interactiva de los juegos de Valve. Estoy desarrollando primero el universo Half-Life y sus expansiones.
 
 [![Fan art animado de Gordon Freeman en Black Mesa para ValveDex](./assets/valvedex-gordon.gif)](https://github.com/Manuelklk03/ValveDex)
+
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/ValveDex)
 
 **Stack:** `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Three.js` · `GSAP`
 
@@ -65,6 +67,8 @@ Estoy empezando por la documentación y el entorno de desarrollo. La aplicación
 
 Aplicación para organizar entrenamientos, encontrar lugares donde entrenar y seguir el progreso. Nació como proyecto de DAW y está en renovación hacia su versión 2.0.
 
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/Digital-Fit-Proyecto)
+
 **Stack:** `Angular` · `TypeScript` · `Leaflet` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Maven`
 
 <p>
@@ -82,6 +86,7 @@ Mi portfolio con estética de Matrix, arte ASCII, una intro con Morfeo y una ter
 
 ![Iconos de Astro, React, TypeScript, Tailwind CSS y Three.js](https://skillicons.dev/icons?i=astro,react,ts,tailwind,threejs&theme=dark)
 
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelklk03/PortFolio-Personal)
 [![Visitar portfolio](https://img.shields.io/badge/Visitar_portfolio-00C853?style=for-the-badge&logo=astro&logoColor=white)](https://manuelcasinos.es/)
 
 ## Sobre mí
